@@ -1,6 +1,3 @@
 # hello-world
-testing
-testing more
-testing more
-testing more
+This is very hot
 END
