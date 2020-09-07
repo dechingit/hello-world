@@ -1,3 +1,3 @@
 # hello-world
-This is very hot
+Things are getting interesting now
 END
